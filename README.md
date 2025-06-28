@@ -61,8 +61,7 @@
 <td align="center" width="50%">
 
 **🗄️ STORAGE & DATABASE**
-
-<br><br>
+<br>
 
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 
@@ -90,7 +89,7 @@
 
 ## 🛠️ **STACK TECNOLÓGICO**
 
-<div align="center">
+<div>
 
 ### 🎨 **Frontend Development**
 
@@ -178,12 +177,10 @@
 
 ## 🎯 **ÁREAS DE INTERÉS**
 
-<div align="center">
+<div>
 
 **🔬 TÉCNICO**
-
-<br><br>
-
+<br>
 📐 **Matemáticas Puras**<br>
 
 🏗️ **Arquitectura de Software**<br>
