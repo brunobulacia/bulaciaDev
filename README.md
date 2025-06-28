@@ -1,4 +1,3 @@
-<div align="center">
 
 # ¡Hola! Soy Bruno Bulacia
 
@@ -184,4 +183,3 @@
 
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=brunobulacia.brunobulacia&color=0891b2&style=flat-square&logo=github)
 
-</div>
