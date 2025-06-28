@@ -52,7 +52,7 @@
 - 🏗️ **Arquitectura de Software**
 - 🤖 **Inteligencia Artificial (AGI) y Machine Learning**
 
-## 📫 Conecta conmigo
+## 📫 Mi email
 
 - 📧 Email: bulaciabruno@icloud.com
 
