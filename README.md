@@ -50,9 +50,11 @@
 
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=brunobulacia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=brunobulacia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobulacia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobulacia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=es)
+
+![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=brunobulacia&theme=tokyo-night&hide_border=true&custom_title=Gráfico%20de%20Contribuciones)
 
 </div>
 
