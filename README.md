@@ -59,7 +59,7 @@
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS_CERTIFIED-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 *Experiencia en arquitecturas escalables y despliegues en la nube*
