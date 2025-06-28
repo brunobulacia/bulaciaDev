@@ -62,7 +62,7 @@
 
 <div align="center">
 
-*"El que con monstruos lucha, cuide de no convertirse a su vez en monstruo. Cuando miras largo tiempo a un abismo, el abismo también mira dentro de ti."*  
+*"El que con monstruos lucha, cuide de no convertirse a su vez en monstruo. Cuando miras largo tiempo a un abismo, el abismo también mira dentro de vos."*  
 **— Friedrich Nietzsche**
 
 </div>
