@@ -168,8 +168,8 @@
 ## 📫 **CONTACTO**
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-bulaciabruno@icloud.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bulaciabruno@icloud.com)
+  
+📧 **Email:** bulaciabruno@icloud.com
 
 </div>
 
