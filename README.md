@@ -1,4 +1,4 @@
-# ¡Hola! Soy Bruno Bulacia
+# ¡Hola! 👋 Soy Bruno Bulacia
 
 ## 🎓 Sobre mí
 - 📚 Estudiante de **Ingeniería Informática** (7mo y 8vo semestre)
@@ -46,10 +46,18 @@
 ![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
 
+## 📊 Lenguajes más utilizados
+
+<div align="center">
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobulacia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
 ## 🎯 Intereses Especiales
 
 - 📐 **Matemáticas Puras**: Álgebra Abstracta, Análisis Real, Teoría de Números
-- 🏛️ **Filosofía**: Explorando el pensamiento de grandes filósofos como Platón, Aristóteles, Spinoza, Kant, Nietzsche, entre otros
+- 🏛️ **Filosofía**: Explorando el pensamiento de grandes filósofos como Spinoza, Santo Tomás de Aquino, Kant, Nietzsche, entre otros
 - 🔬 **Algoritmos y Estructuras de Datos**
 - 🏗️ **Arquitectura de Software**
 - 🤖 **Inteligencia Artificial (AGI) y Machine Learning**
@@ -62,7 +70,7 @@
 
 <div align="center">
 
-*"El que con monstruos lucha, cuide de no convertirse a su vez en monstruo. Cuando miras largo tiempo a un abismo, el abismo también mira dentro de vos."*  
+*"El que con monstruos lucha, cuide de no convertirse a su vez en monstruo. Cuando miras largo tiempo a un abismo, el abismo también mira dentro de vos.""*  
 **— Friedrich Nietzsche**
 
 </div>
