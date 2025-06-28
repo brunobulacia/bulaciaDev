@@ -46,9 +46,11 @@
 ![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
 
-## 📊 Lenguajes más utilizados
+## 📊 Estadísticas de GitHub
 
 <div align="center">
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=brunobulacia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobulacia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
@@ -70,7 +72,7 @@
 
 <div align="center">
 
-*"El que con monstruos lucha, cuide de no convertirse a su vez en monstruo. Cuando miras largo tiempo a un abismo, el abismo también mira dentro de vos.""*  
+*"Lo que no me mata, me fortalece"*  
 **— Friedrich Nietzsche**
 
 </div>
