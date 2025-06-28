@@ -61,7 +61,7 @@
 ## 🎯 Intereses Especiales
 
 - 📐 **Matemáticas Puras**: Álgebra Abstracta, Análisis Real, Teoría de Números
-- 🏛️ **Filosofía**: Explorando el pensamiento de grandes filósofos como Spinoza, Santo Tomás de Aquino, Kant, Nietzsche, entre otros
+- 🏛️ **Filosofía**: Explorando el pensamiento de grandes filósofos como Platón, Aristóteles, Spinoza, Kant, Nietzsche, entre otros
 - 🔬 **Algoritmos y Estructuras de Datos**
 - 🏗️ **Arquitectura de Software**
 - 🤖 **Inteligencia Artificial (AGI) y Machine Learning**
