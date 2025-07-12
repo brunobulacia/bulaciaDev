@@ -1,4 +1,4 @@
-# ¡Hola! Soy Bruno Bulacia
+# Hola, Soy Bruno Bulacia
 
 ## 🎓 Sobre mí
 - 📚 Estudiante de **Ingeniería Informática** (7mo y 8vo semestre)
